@@ -1,9 +1,7 @@
-# Tilt-Wing-UAV
-
-
+# Tilt Wing UAV (Completed Aug. 2018)
 
 Tilt wing drone which sends information to the user over Bluetooth using FreeRTOS on an ARM based microcontroller.
 
-[A three miniute summary of our project can be found here](https://github.com/wheatg/Tilt-Wing-UAV/blob/master/Photos%20and%20Video/Tiltwing%20UAV%20Project.mp4)
+A video summary can be seen by viewing "Tiltwing UAV Project.mp4" in the Photos and Video folder.
 
-A full report can be seen by viewing the "Tilt Wing UAV with Touch Screen Telemetry Display.pdf"
+A full report can be seen by viewing the "Tilt Wing UAV with Touch Screen Telemetry Display.pdf".
